@@ -27,3 +27,10 @@ logs
 
 # Editor directories and files
 .vscode/*
+
+# WebDriver Binaries
+drivers/
+!drivers/README.md
+
+# Mac Directories
+.DS_Store

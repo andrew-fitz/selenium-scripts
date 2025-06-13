@@ -1,0 +1,28 @@
+{
+  "name": "selenium-scripts",
+  "version": "1.0.0",
+  "description": "This repository contains a collection of Selenium-based scripts used for **testing**, **automation**, and **demos**. It is intended to be a flexible workspace for web interaction tasks using Selenium WebDriver.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-fitz/selenium-scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/andrew-fitz/selenium-scripts/issues"
+  },
+  "homepage": "https://github.com/andrew-fitz/selenium-scripts#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "selenium-webdriver": "^4.33.0"
+  }
+}
